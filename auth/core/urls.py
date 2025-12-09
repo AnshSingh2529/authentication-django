@@ -1,0 +1,3 @@
+urlpatterns = [
+      # Example URL patterns
+]

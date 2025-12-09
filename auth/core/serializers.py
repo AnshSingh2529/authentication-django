@@ -1,0 +1,1 @@
+# serializers.py file for auth/core app
